@@ -24,10 +24,13 @@ _You **can** combine them_
 3. Item 3
    * Item 3a
    * Item 3b 
-the listing number keeps increasing no matter what number you add. 
+The listing number keeps increasing, no matter what number you add. 
 1. Item 1
 2. Item 2
   1. level 2
 3. Item 3
    * Item 3a
    * Item 3b
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
