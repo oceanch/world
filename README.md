@@ -1,7 +1,6 @@
-# world
-test
+# Basic knowledge of different coding languages
+* HTML (html)
+* Markdown (md)
 
-
-hello world! 
-
-The first b?
+# Data server
+* Github 
