@@ -1,4 +1,4 @@
-By Tabby Kinder	1 December 2016 00:01
+> By Tabby Kinder	1 December 2016 00:01
 
 Steptoe & Johnson London managing partner Brendan Patterson has instructed his own firm in a dispute with a neighbour over a lime tree in the neighbouring garden.
 
@@ -18,7 +18,8 @@ The dispute so far is understood to have cost Grainger “more than £1m in fees
 
 Patterson told The Lawyer he “would be responsible for his legal fees” to Steptoe, but declined to comment when asked if he and the firm had an agreement regarding payment of the fees.
 
-He said: “This is not a neighbourly dispute, it was an attempted fraud. I’m trying to defend my family against a [£244m] company with four law firms. I’m the underdog.”
+He said: 
+> “This is not a neighbourly dispute, it was an attempted fraud. I’m trying to defend my family against a [£244m] company with four law firms. I’m the underdog.”
 
 Patterson is expected to attend a costs hearing related to the July judgment rejecting BPT’s application on Friday (2 December). At the hearing he will discover if Grainger will be responsible for his legal costs so far.
 
@@ -26,13 +27,14 @@ Patterson has documented the proceedings on a website created by him, which cont
 
 A letter dated 17 June 2013 from Steptoe’s London office to a Grainger representative reads: “There has been extensive correspondence relating to the poor state of repair of 86 Harberton Road and the large tree that is situated in the front garden of 86 Harberton Road.
 
-“As you will be aware this has caused extensive damage to 84 Harberton Road. Despite frequent requests the tree has not been removed or pollarded or maintained properly. Our clients have some major concerns which have been expressed on a number of occasions.”
+> “As you will be aware this has caused extensive damage to 84 Harberton Road. Despite frequent requests the tree has not been removed or pollarded or maintained properly. Our clients have some major concerns which have been expressed on a number of occasions.”
 
 The Steptoe letter then goes on to list complaints that include “extensive damage caused by the roots of the tree” to Patterson’s drains; that Patterson’s “windows are constantly covered in sap” by the tree in question; and that Patterson’s fence panels have been destroyed by “the lack of maintenance in the rear garden”.
 
-The letter continues: “You will be aware that allowing the tree to encroach on our clients’ land constitutes a nuisance and trespass, and is actionable. We wish to place you on notice to abate the nuisance which the tree in the front garden is causing, and also the nuisance caused by a failure to maintain the garden to the rear of the property.
+The letter continues: 
+> “You will be aware that allowing the tree to encroach on our clients’ land constitutes a nuisance and trespass, and is actionable. We wish to place you on notice to abate the nuisance which the tree in the front garden is causing, and also the nuisance caused by a failure to maintain the garden to the rear of the property.
 
-“Our clients hope that it will not be necessary for them to seek injunctive relief to restrain the continuing nuisance.”
+> “Our clients hope that it will not be necessary for them to seek injunctive relief to restrain the continuing nuisance.”
 
 Grainger subsidiary BPT Ltd instructed DWF to respond to the Steptoe letter, which was followed by a series of emails between Patterson and Grainger manager James Peppiatt.
 
@@ -40,9 +42,11 @@ In an email Patterson reveals he has drafted in Steptoe London head of construct
 
 The correspondence continued until December 2014, 18 months after the first letter, when a bundle including photos of the property, maps and a witness statement was submitted to the county court.
 
-The 30-page witness statement reads: “I am the managing partner of Steptoe & Johnson’s London office and also head of the real estate group dealing with both contentious and non-contentious matters. I have over 30 years’ experience in this property sector.”
+The 30-page witness statement reads: 
+> “I am the managing partner of Steptoe & Johnson’s London office and also head of the real estate group dealing with both contentious and non-contentious matters. I have over 30 years’ experience in this property sector.”
 
-It goes on to state: “The lack of maintenance of the Lime Tree has caused subsidence to 84 Haberton Road… The roots of the Lime Tree block the drains of 84 Haberton Road and my wife and I have spent approximately £20,000 over the years clearing the drains every 2 to 3 years.”
+It goes on to state: 
+> “The lack of maintenance of the Lime Tree has caused subsidence to 84 Haberton Road… The roots of the Lime Tree block the drains of 84 Haberton Road and my wife and I have spent approximately £20,000 over the years clearing the drains every 2 to 3 years.”
 
 Patterson makes several allegations about Grainger’s lawyers in his statement, including an allegation Olswang’s correspondence with his lawyer “contained a large number of factual inaccuracies” and “contained the threat” of further litigation.
 
