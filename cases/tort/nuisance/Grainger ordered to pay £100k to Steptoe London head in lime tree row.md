@@ -1,6 +1,6 @@
 > By Tabby Kinder	6 December 2016 14:45
 
-*Grainger Plc has been ordered to pay Steptoe & Johnson London managing partner Brendan Patterson £100,000 on account of costs in the long-running saga over a lime tree.*
+**Grainger Plc has been ordered to pay Steptoe & Johnson London managing partner Brendan Patterson £100,000 on account of costs in the long-running saga over a lime tree.**
 
 The property company’s subsidiary BPT Ltd must make the payment before 16 December with further costs to be outlined following a detailed costs assessment.
 
