@@ -8,6 +8,8 @@ HTML的语法就是给文本加上表明文本含义的标签(Tag)
 <html>
   <head>
     <title>第一个Html文档</title>
+    <style>    h2 {      color:green;      font-size:30pt;      font-style:italic;    } </style> 
+
   </head>
   <body>
     欢迎访问<a href="oceanch.github.io">Dr Han的个人网页</a>!
@@ -48,6 +50,16 @@ HTML的语法就是给文本加上表明文本含义的标签(Tag)
 这是第一段。<br>
 这是第二段。<br />
 这是第三段。
+
+header
+main
+nav
+article
+section
+aside
+address
+footer
+
 
 <h4>images</h4>
 <!hr>标签用于在页面上添加横线。可以通过指定width和color属性来控制横线的长度和颜色。
