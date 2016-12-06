@@ -16,20 +16,26 @@ HTML的语法就是给文本加上表明文本含义的标签(Tag)
 <!a>标签用于表示链接，在浏览器（如IE,Firefox等）中查看HTML文档时，点击<!a>标签括起来的内容时，通常会跳转到另一个页面。这个要跳转到的页面的地址由<!a>标签的href属性指定。上面的<!a href="oceanch.github.io">中，href属性的值就是oceanch.github.io。
 
 <font size="6">6</font>
+
 <font size="4">4</font>
+
 <font color="red" size="5">红色的5</font>
+
 <font face="黑体">黑体的字</font>
 
 加粗，下划线，斜体字也是常用的文字效果，它们分别用<!b>,<!u>,<!i>表示：
-<b>Bold</b>
+<b>Bold</b>, <i>italic</i>,    <u>underline</u>
     
-<i>italic</i>
+<!abbr>缩写
 
-    <u>underline</u>
-    
-    <!abbr>（表示缩写），<!em>（表示强调），<!strong>（表示更强地强调）,<!cite>（表示引用），<!address>（表示地址）
-    
-    
+<!em>强调
+
+<!strong>更强地强调
+
+<!cite>引用
+
+<!address>地址
+
 </body>
 
   
