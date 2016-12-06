@@ -108,4 +108,7 @@ if (isAwesome){
 }
 ```
 ##emoji list
+emoji! :sparkles: :camel: :boom: 
+
+:unlock:Github, md, html!
 http://www.webpagefx.com/tools/emoji-cheat-sheet/
