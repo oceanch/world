@@ -1,10 +1,5 @@
+##fonts
 It's very easy to make some words **bold** and other words *italic* with ***Markdown***. 
-
-You can even [link to Google!](http://google.com)
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
 
 *This text will be italic*
 _This will also be italic_
@@ -13,6 +8,12 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
+##listing
+# This is an `<h1>` tag
+## This is an `<h2>` tag
+###### This is an `<h6>` tag
+
 
 * Item 1
 * Item 2
@@ -32,5 +33,30 @@ The listing number keeps increasing, no matter what number you add.
    * Item 3a
    * Item 3b
 
+##image
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
+
+##Links
+oceanch.github.io 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+##Blockquotes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+##Inline code
+
+I think you should use an
+`<addr>` element here instead.
+
+##tasks list
+Task Lists
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
