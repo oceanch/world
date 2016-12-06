@@ -20,12 +20,18 @@ HTML的语法就是给文本加上表明文本含义的标签(Tag)
 <font color="red" size="5">红色的5</font>
 <font face="黑体">黑体的字</font>
 
-加粗，下划线，斜体字也是常用的文字效果，它们分别用<b>,<u>,<i>表示：
+加粗，下划线，斜体字也是常用的文字效果，它们分别用<!b>,<!u>,<!i>表示：
 <b>Bold</b>
+    
 <i>italic</i>
-<u>underline</u>
 
+    <u>underline</u>
+    
+    <!abbr>（表示缩写），<!em>（表示强调），<!strong>（表示更强地强调）,<!cite>（表示引用），<!address>（表示地址）
+    
+    
 </body>
+
   
 </html>
 
