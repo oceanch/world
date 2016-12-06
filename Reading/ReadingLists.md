@@ -3,3 +3,6 @@
 
 #Finished
 - [x] 断舍离
+
+#Expected
+- [ ] ns3 manual
