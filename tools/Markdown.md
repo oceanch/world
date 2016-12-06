@@ -44,7 +44,7 @@ Alternatively,
 ##image
 ![GitHub Logo](/images/logo.png)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Reading" width="100" height="100" />
 
 
 ##Links
