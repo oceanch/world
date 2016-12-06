@@ -44,7 +44,20 @@ Alternatively,
   + the same?
   + as well?
   
-  
+  #+BEGIN_EXAMPLE
+   Mod4 + Enter           打开终端                                               
+   Mod4 + r               执行程序或命令
+   Mod4 + w               打开Awesome主菜单（鼠标右键关闭）                                                   
+   Mod4 + Shift + c       关闭当前窗口或应用                                     
+   Mod4 + Control + r     重启Awesome                                            
+   Mod4 + Shift + q       退出Awesome
+                                                                                
+   Mod4 + j               切换到下一个窗口                                       
+   Mod4 + k               切换到前一个窗口                                       
+   Mod4 + Left            查看前一个tag                                          
+   Mod4 + Right           查看后一个tag                                          
+   Mod4 + 1-9             切换到tag 1-9  
+   #+END_EXAMPLE
 
 ##image
 ![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
