@@ -41,12 +41,22 @@ Alternatively,
   - Like this
   - And this
   
+  + the same?
+  + as well?
+  
+  
+
 ##image
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
 
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Reading" width="100" height="100" />
 
-
+   #+CAPTION: 浮动式窗口管理器的问题
+   #+ATTR_HTML: align="center"
+   #+LABEL: fig:floatproblem
+   #+ATTR_LaTeX: width=.8\textwidth
+   [[https://octodex.github.com/images/yaktocat.png]]
+   
 ##Links
 http://oceanch.github.io 
 
