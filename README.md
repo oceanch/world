@@ -7,8 +7,8 @@
 * Github 
 
 # Reading lists
-- [Reading]()
-- [Finished]()
+- [Reading](https://github.com/oceanch/world/blob/master/Reading.md#reading)
+- [Finished](https://github.com/oceanch/world/blob/master/Reading.md#finished)
 
 # Websites of interest
 - [Douban](https://www.douban.com/)
