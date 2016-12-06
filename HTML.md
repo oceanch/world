@@ -101,7 +101,15 @@ HTML的语法就是给文本加上表明文本含义的标签(Tag)
   <li>把大象赶进去</li>
   <li>关上冰箱门</li>
 </ol>
-
+<h4>framework</h4>
+分割页面，into three parts。
+<frameset rows="15%,*">
+     <frame src="top.html" name=title scrolling=no>
+     <frameset cols="20%,*">
+          <frame src="left.html" name=sidebar>
+          <frame src="right.html" name=recipes>
+     </frameset>
+</frameset>
 
 </body>
 
