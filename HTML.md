@@ -64,6 +64,45 @@ HTML的语法就是给文本加上表明文本含义的标签(Tag)
 
 <a href="http://validator.w3.org"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="验证HTML" /></a>
 
+<h4>table</h4>
+<table>
+  <tr>
+    <td>2000</td><td>悉尼</td>
+  </tr>
+  <tr>
+    <td>2004</td><td>雅典</td>
+  </tr>
+  <tr>
+    <td>2008</td><td>北京</td>
+  </tr>
+</table>
+
+<table>
+  <thead>
+    <tr><th>时间</th><th>地点</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>2000</td><td>悉尼</td></tr>
+    <tr><td>2004</td><td>雅典</td></tr>
+    <tr><td>2000</td><td>北京</td></tr>
+  </tbody>
+</table>
+
+<h4>listing</h4>
+<ul>
+  <li>苹果</li>
+  <li>桔子</li>
+  <li>桃</li>
+</ul>
+有序列表中各个项目间的顺序是很重要的，浏览器通常会自动给它们产生编号。
+
+<ol>
+  <li>打开冰箱门</li>
+  <li>把大象赶进去</li>
+  <li>关上冰箱门</li>
+</ol>
+
+
 </body>
 
   
