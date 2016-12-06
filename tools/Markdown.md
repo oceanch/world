@@ -6,6 +6,7 @@
 ## 目录
 * [fonts](#fonts)
 * [image](#image)
+* [link](#link)
 * [blockquotes](#blockquotes)
 * [list](#list)
 * [table](#table)
@@ -66,7 +67,7 @@ Alternatively,
 
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Reading" width="100" height="100" />
   
-##Links
+##<a id="link"></a>Links
 http://oceanch.github.io 
 
 http://github.com - automatic!
