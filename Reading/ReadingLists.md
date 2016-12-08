@@ -126,7 +126,7 @@
 - [x] 李开复自传
 
 ##GAME Theory
-- [x] 1 THINKING STRATEGICALLY-策略思维------first & best
+- [x] THINKING STRATEGICALLY-策略思维------first & best
 - [ ] 博弈与信息.博弈论概述.拉斯缪森--concept ---ing
 - [ ] 三个和尚如何有水吃：50篇经济学小品文-interesting  ---ing
 - [ ] 博弈论.冲突分析.迈尔森---hard, equations
