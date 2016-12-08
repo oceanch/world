@@ -129,17 +129,15 @@
 
 ##GAME Theory
 - [x] 1 THINKING STRATEGICALLY-策略思维------first & best
-                - [ ] 博弈与信息.博弈论概述.拉斯缪森--concept ---ing
-                - [ ] 三个和尚如何有水吃：50篇经济学小品文-interesting  ---ing
-                - [ ] 博弈论.冲突分析.迈尔森---hard, equations
-                - [ ] 博弈论入门.吉本斯--basic
-                - [ ] 策略理性模型.泽尔滕--examples ---ing
-                - [ ] 计量经济学--- 李子奈
-                - [ ] 高级计量经济学
-                - [ ] Strategies and Games
-                - [ ] 30天让你精通博弈学-许进
+- [ ] 博弈与信息.博弈论概述.拉斯缪森--concept ---ing
+- [ ] 三个和尚如何有水吃：50篇经济学小品文-interesting  ---ing
+- [ ] 博弈论.冲突分析.迈尔森---hard, equations
+- [ ] 博弈论入门.吉本斯--basic
+- [ ] 策略理性模型.泽尔滕--examples ---ing
+- [ ] Strategies and Games
+- [ ] 30天让你精通博弈学-许进
 
-
+---
 #Expected
 - [ ] 。。。
 
