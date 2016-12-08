@@ -52,7 +52,7 @@
                 [x] 35 经济为什么会崩溃 : 鱼、美元和经济学
                 [x] 36 王二经济学
                          
-                         ##consultant
+##consultant
 - [ ] 3.1 case book 4th ed ---ing
 - [ ] 麦肯锡方法
                 [ ] 麦肯锡工具
