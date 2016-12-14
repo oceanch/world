@@ -8,6 +8,9 @@
 - [Douban](https://www.douban.com/)
 - [Jianshu](http://www.jianshu.com/)
 
+# Music
+- [Writing](https://github.com/oceanch/world/blob/master/Music/writing.md#writing)
+
 # Tools - coding languages
 * [HTML (html)](https://github.com/oceanch/world/blob/master/tools/HTML.md)
 * [Markdown (md)](https://github.com/oceanch/world/blob/master/tools/Markdown.md)
