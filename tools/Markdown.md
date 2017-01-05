@@ -26,6 +26,7 @@ __This will also be bold__
 
 _You **can** combine them_
 
+` <del>tags</del> = ~~tag~~`
  <del>tags</del> = ~~tag~~
 ##listing
 # This is an `<h1>` tag
