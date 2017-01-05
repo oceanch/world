@@ -1,12 +1,11 @@
 
- 
- ## Research
+#Research
  
  - update SMAC for JCIN
  - 
 - **The end**
 
- # Odd Jobs
+# Odd Jobs
  
  lksdjflsdkfjsd
  
