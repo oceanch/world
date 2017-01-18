@@ -9,7 +9,7 @@
 - ~~read recent publications on CAV V2X~~
 - review Yue Cao's paper
 - review Tong's paper
-* review CAV white paper (KK)
+* ~~review CAV white paper (KK)~~
 
 ## Odd Jobs ##
  
