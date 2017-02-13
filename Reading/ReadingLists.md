@@ -41,6 +41,7 @@
 - [ ] ns3 manual - LTE
 - [ ] LENA manual
 - [ ] 大数据时代
+- [ ] Cognition by Sternberg
 
 ##Dev related
 - [ ] 消费者行为学
