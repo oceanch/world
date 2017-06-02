@@ -1,7 +1,7 @@
-    git status
+   * git status
 
-    git add .
+*    git add .
 
-    git commit -m "name to distinguish versions"
+ *   git commit -m "name to distinguish versions"
 
-    git push
+  *  git push
