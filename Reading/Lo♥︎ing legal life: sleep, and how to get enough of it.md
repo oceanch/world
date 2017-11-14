@@ -11,7 +11,7 @@ In addition, attitudes towards rest are often linked to gender stereotypes which
 
 It is time to wake up! The reality is that those who enjoy sufficient sleep each night are likely to perform far better than their nocturnal colleagues in the short and long term. Securing enough sleep should be an integral part of any plan for success. Enlightened leaders now recognise the power of renewal, and ensure that work patterns for themselves and their team are supportive of rest.
 
-###Why is sleep important?
+### Why is sleep important?
 It is surprising that so many people feel unable to put aside time for a good night’s sleep, because the importance of good-quality sleep for our mental, physical and emotional well-being is beyond doubt.
 
 Lack of sleep is well-known for harming mental performance, adversely affecting objectivity and judgment, and impairing memory. We are all familiar with those effects in ourselves and others.
