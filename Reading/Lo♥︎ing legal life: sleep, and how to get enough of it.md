@@ -1,10 +1,10 @@
-##Lo♥︎ing legal life: sleep, and how to get enough of it
+## Lo♥︎ing legal life: sleep, and how to get enough of it
 
 >16 December 2016 00:01
 
 This week, systemic coach Zita Tulyahikayo and barrister James Pereira QC discuss why adequate sleep is essential for peak performance, and how to get enough of it. 
 
-###Heart
+### Heart
 The working world has few greater ironies than its attitude to sleep. The ability to perform on a few hours sleep a night is regarded as a valuable asset, while needing a good night’s sleep is seen as a sign of weakness. Generally there is little sympathy in the modern workplace for those who feel tired and need rest.
 
 In addition, attitudes towards rest are often linked to gender stereotypes which perpetuate age old myths about the role of men and women in the work place.
@@ -24,7 +24,7 @@ Given the importance of sleep to our physical and mental health, it is not surpr
 
 Chronic tiredness undermines the ability to make judgments that are free from unconscious bias, as the body struggles to draw upon depleted reserves of functionality. This in turn can lead to a lack of trust in the decisions we make. Insecurity, paranoia and mental health issues fuelled by dependency on external stimulants such as caffeine and sugar – all seemingly part of the daily norm – are in reality symptoms of a mind and body struggling to maintain some semblance of equilibrium.
 
-###How can you get enough quality sleep?
+### How can you get enough quality sleep?
 Given the importance of sleep, getting enough of it should be at the top of everyone’s agenda, along with balanced nutrition and adequate hydration So, what can you do to ensure a good night’s sleep? Here are some tips.
 
 * First, change your mind-set. Instead of viewing sleep as being in conflict with work and productivity, look upon it as essential to maintaining your brain and body in peak performance, By acknowledging and accepting sleep as complimentary and supportive of your professional life, you will prioritise it and value it just as you do your own worth. This is an essential step in ensuring that sufficient sleep becomes part of your daily routine, and is not sacrificed to other ends.
@@ -41,5 +41,5 @@ Similarly, as you reduce your sleep debt, your productivity will increase. Rathe
 
 All these steps will support you in achieving long, restful sleep.
 
-###Harness the power of renewal
+### Harness the power of renewal
 Many people will face the end of the year exhausted. So as the holiday season approaches, give yourself the gift of sleep this Christmas, and harness the power of renewal that healthy sleeping patterns will bring. Remember, it is not how long you work, but how well you work, that really matters. A regular good night’s sleep will support your excellence. You really can sleep your way to the top.
